@@ -48,7 +48,7 @@ typings/
 *.tsbuildinfo
 
 # Optional npm cache directory
-.npm
+# .npm
 
 # Optional eslint cache
 .eslintcache
@@ -63,7 +63,7 @@ typings/
 .node_repl_history
 
 # Output of 'npm pack'
-*.tgz
+# *.tgz
 
 # Yarn Integrity file
 .yarn-integrity
@@ -76,7 +76,7 @@ typings/
 .cache
 
 # Next.js build output
-.next
+# .next
 
 # Nuxt.js build / generate output
 .nuxt
