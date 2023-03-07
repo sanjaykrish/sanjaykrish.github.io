@@ -35,11 +35,11 @@ bower_components
 .lock-wscript
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
-build/Release
+# build/Release
 
 # Dependency directories
-node_modules/
-jspm_packages/
+# node_modules/
+# jspm_packages/
 
 # TypeScript v1 declaration files
 typings/
@@ -105,15 +105,15 @@ dist
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
-/.pnp
-.pnp.js
+# /node_modules
+# /.pnp
+# .pnp.js
 
 # testing
 /coverage
 
 # production
-/build
+# /build
 
 # misc
 .DS_Store
